@@ -27,3 +27,9 @@
     - If you have commit access, just push a commit
   
     - Otherwise, fork and make a pull request
+
+## Links
+
+- [Source code for the tool](https://github.com/dmungin/gloomhaven-scenario-tree-ng)
+- [Intro reddit thread for the tool](https://www.reddit.com/r/Gloomhaven/comments/87cwkd/scenario_flowchart_webapp/)
+- [BGG scenario flowchart PDF](https://boardgamegeek.com/filepage/143772/scenario-flowchart)
