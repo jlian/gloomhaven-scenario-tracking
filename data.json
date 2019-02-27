@@ -26,7 +26,12 @@
 		"status": "complete"
 	}, {
 		"id": "6",
-		"status": "incomplete"
+		"status": "complete",
+		"treasure": {
+			"50": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "7",
 		"status": "incomplete"
