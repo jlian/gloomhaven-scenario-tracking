@@ -1,5 +1,9 @@
 # Gloomhaven scenario tracking
 
+## TODO
+
+- Implement cloud storage instead of relying on local storage
+
 ## Populate the tree
 
 1. Copy contents of [data.json](https://github.com/jlian/gloomhaven-scenario-tracking/blob/master/data.json)
