@@ -100,9 +100,16 @@
 		"status": "complete"
 	}, {
 		"id": "28",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "Had to do 2 times cuz we scrubs",
+		"treasure": {
+			"32": {
+				"looted": "true"
+			}
+		}
 	}, {
-		"id": "29"
+		"id": "29",
+		"status": "incomplete"
 	}, {
 		"id": "30",
 		"status": "complete"
