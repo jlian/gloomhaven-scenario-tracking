@@ -9,7 +9,12 @@
 		}
 	}, {
 		"id": "2",
-		"status": "complete"
+		"status": "complete",
+		"treasure": {
+			"67": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "3",
 		"status": "complete",
@@ -33,11 +38,11 @@
 			}
 		}
 	}, {
-		"id": "7",
-		"status": "incomplete"
+		"id": "7"
 	}, {
 		"id": "8",
-		"status": "complete"
+		"status": "incomplete",
+		"notes": "We did this illegally and had to undo it. Sad!"
 	}, {
 		"id": "9",
 		"status": "complete"
@@ -56,8 +61,7 @@
 			}
 		}
 	}, {
-		"id": "13",
-		"status": "incomplete"
+		"id": "13"
 	}, {
 		"id": "14",
 		"status": "complete"
@@ -70,7 +74,12 @@
 		"id": "17"
 	}, {
 		"id": "18",
-		"status": "incomplete"
+		"status": "complete",
+		"treasure": {
+			"63": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "19",
 		"status": "complete"
@@ -81,7 +90,8 @@
 	}, {
 		"id": "22"
 	}, {
-		"id": "23"
+		"id": "23",
+		"status": "incomplete"
 	}, {
 		"id": "24",
 		"status": "complete"
@@ -94,7 +104,8 @@
 			}
 		}
 	}, {
-		"id": "26"
+		"id": "26",
+		"status": "incomplete"
 	}, {
 		"id": "27",
 		"status": "complete"
@@ -185,7 +196,9 @@
 	}, {
 		"id": "59"
 	}, {
-		"id": "60"
+		"id": "60",
+		"x": -392,
+		"y": 1452
 	}, {
 		"id": "61",
 		"status": "complete"
@@ -214,7 +227,8 @@
 	}, {
 		"id": "68"
 	}, {
-		"id": "69"
+		"id": "69",
+		"status": "complete"
 	}, {
 		"id": "70",
 		"status": "complete"
@@ -236,9 +250,13 @@
 	}, {
 		"id": "77"
 	}, {
-		"id": "78"
+		"id": "78",
+		"x": -408,
+		"y": 1622
 	}, {
-		"id": "79"
+		"id": "79",
+		"x": -392,
+		"y": 1786
 	}, {
 		"id": "80"
 	}, {
