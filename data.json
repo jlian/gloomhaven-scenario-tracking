@@ -90,7 +90,8 @@
 	}, {
 		"id": "21"
 	}, {
-		"id": "22"
+		"id": "22",
+		"status": "incomplete"
 	}, {
 		"id": "23",
 		"status": "complete",
@@ -115,7 +116,12 @@
 		}
 	}, {
 		"id": "26",
-		"status": "incomplete"
+		"status": "complete",
+		"treasure": {
+			"66": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "27",
 		"status": "complete"
@@ -212,7 +218,8 @@
 		"status": "complete"
 	}, {
 		"id": "62",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "Rip spell weaver"
 	}, {
 		"id": "63"
 	}, {
@@ -247,7 +254,8 @@
 		"status": "complete",
 		"notes": "Extremely difficult!"
 	}, {
-		"id": "73"
+		"id": "73",
+		"status": "incomplete"
 	}, {
 		"id": "74"
 	}, {
