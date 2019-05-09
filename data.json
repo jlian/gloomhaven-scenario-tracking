@@ -91,7 +91,13 @@
 		"id": "21"
 	}, {
 		"id": "22",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "lmaoooooo",
+		"treasure": {
+			"21": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "23",
 		"status": "complete",
@@ -153,9 +159,11 @@
 		"id": "34",
 		"status": "complete"
 	}, {
-		"id": "35"
+		"id": "35",
+		"status": "incomplete"
 	}, {
-		"id": "36"
+		"id": "36",
+		"status": "incomplete"
 	}, {
 		"id": "37"
 	}, {
