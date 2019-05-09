@@ -38,11 +38,10 @@
 			}
 		}
 	}, {
-		"id": "7",
-		"status": "incomplete"
+		"id": "7"
 	}, {
 		"id": "8",
-		"status": "incomplete",
+		"status": "attempted",
 		"notes": "We did this illegally and had to undo it. Sad!"
 	}, {
 		"id": "9",
@@ -62,8 +61,7 @@
 			}
 		}
 	}, {
-		"id": "13",
-		"status": "incomplete"
+		"id": "13"
 	}, {
 		"id": "14",
 		"status": "complete"
