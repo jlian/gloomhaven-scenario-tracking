@@ -38,7 +38,8 @@
 			}
 		}
 	}, {
-		"id": "7"
+		"id": "7",
+		"status": "incomplete"
 	}, {
 		"id": "8",
 		"status": "attempted",
@@ -61,7 +62,8 @@
 			}
 		}
 	}, {
-		"id": "13"
+		"id": "13",
+		"status": "incomplete"
 	}, {
 		"id": "14",
 		"status": "complete"
@@ -146,7 +148,13 @@
 		"status": "complete"
 	}, {
 		"id": "31",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "Get column rekt",
+		"treasure": {
+			"69": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "32",
 		"status": "complete"
@@ -163,11 +171,14 @@
 		"id": "36",
 		"status": "incomplete"
 	}, {
-		"id": "37"
+		"id": "37",
+		"status": "incomplete"
 	}, {
-		"id": "38"
+		"id": "38",
+		"status": "incomplete"
 	}, {
-		"id": "39"
+		"id": "39",
+		"status": "incomplete"
 	}, {
 		"id": "40",
 		"status": "complete",
