@@ -320,7 +320,13 @@
 		"id": "89"
 	}, {
 		"id": "90",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "10 worst cities in Washington, explained.",
+		"treasure": {
+			"19": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "91"
 	}, {
