@@ -206,7 +206,13 @@
 		"id": "45"
 	}, {
 		"id": "46",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "69 hit points",
+		"treasure": {
+			"48": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "47"
 	}, {
@@ -216,7 +222,8 @@
 	}, {
 		"id": "50"
 	}, {
-		"id": "51"
+		"id": "51",
+		"status": "incomplete"
 	}, {
 		"id": "52"
 	}, {
