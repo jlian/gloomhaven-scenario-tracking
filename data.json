@@ -175,7 +175,8 @@
 		"status": "incomplete"
 	}, {
 		"id": "38",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "Almost lost"
 	}, {
 		"id": "39",
 		"status": "complete",
@@ -202,7 +203,8 @@
 		"id": "43",
 		"status": "incomplete"
 	}, {
-		"id": "44"
+		"id": "44",
+		"status": "incomplete"
 	}, {
 		"id": "45"
 	}, {
@@ -217,7 +219,8 @@
 	}, {
 		"id": "47"
 	}, {
-		"id": "48"
+		"id": "48",
+		"status": "incomplete"
 	}, {
 		"id": "49"
 	}, {
