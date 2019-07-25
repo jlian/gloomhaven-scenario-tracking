@@ -220,7 +220,8 @@
 		"id": "47"
 	}, {
 		"id": "48",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "top 3 toughest scenarios"
 	}, {
 		"id": "49"
 	}, {
@@ -313,7 +314,8 @@
 			}
 		}
 	}, {
-		"id": "82"
+		"id": "82",
+		"status": "incomplete"
 	}, {
 		"id": "83",
 		"status": "complete"
