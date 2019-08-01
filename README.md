@@ -6,7 +6,7 @@
 
 ## Populate the tree
 
-1. Copy contents of [data.json](https://github.com/jlian/gloomhaven-scenario-tracking/blob/master/data.json)
+1. Copy contents of [data.json](https://raw.githubusercontent.com/jlian/gloomhaven-scenario-tracking/master/data.json)
 
 1. Go to [Gloomhaven Scenario Tree](https://dmungin.github.io/gloomhaven-scenario-tree-ng/)
 
