@@ -201,7 +201,8 @@
 		"status": "incomplete"
 	}, {
 		"id": "43",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "The tightest possible ending. One hex away and we would've failed."
 	}, {
 		"id": "44",
 		"status": "incomplete"
