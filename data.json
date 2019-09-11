@@ -142,7 +142,8 @@
 		}
 	}, {
 		"id": "29",
-		"status": "incomplete"
+		"status": "attempted",
+		"notes": "Holy fuck we got so rekt "
 	}, {
 		"id": "30",
 		"status": "complete"
@@ -293,7 +294,8 @@
 		"status": "complete",
 		"notes": "Also read the town records book"
 	}, {
-		"id": "74"
+		"id": "74",
+		"status": "incomplete"
 	}, {
 		"id": "75"
 	}, {
