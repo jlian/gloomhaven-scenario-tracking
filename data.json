@@ -142,8 +142,13 @@
 		}
 	}, {
 		"id": "29",
-		"status": "attempted",
-		"notes": "Holy fuck we got so rekt "
+		"status": "complete",
+		"notes": "Holy fuck we got so rekt ",
+		"treasure": {
+			"41": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "30",
 		"status": "complete"
