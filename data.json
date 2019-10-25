@@ -231,7 +231,15 @@
 		}
 	}, {
 		"id": "47",
-		"status": "incomplete"
+		"status": "complete",
+		"treasure": {
+			"18": {
+				"looted": "true"
+			},
+			"57": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "48",
 		"status": "complete",
