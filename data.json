@@ -250,7 +250,12 @@
 		"id": "50"
 	}, {
 		"id": "51",
-		"status": "incomplete"
+		"status": "complete",
+		"treasure": {
+			"56": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "52"
 	}, {
