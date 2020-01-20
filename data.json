@@ -349,7 +349,13 @@
 		}
 	}, {
 		"id": "82",
-		"status": "incomplete"
+		"status": "complete",
+		"notes": "Conclusion B",
+		"treasure": {
+			"62": {
+				"looted": "true"
+			}
+		}
 	}, {
 		"id": "83",
 		"status": "complete"
